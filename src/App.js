@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import CounterApp from './CounterApp.js';
+import CounterApp from './components/CounterApp.js';
 
 class App extends Component {
   constructor(props) {
